@@ -10,7 +10,7 @@ import pickle
 import requests
 
 class MedicalRAGSystem:
-    def __init__(self, model_path: str = "D:\\Embedding\\Embedding", deepseek_api_key: str = "sk-b87c9bf17adf4c5d935feb2748534da4"):
+    def __init__(self, model_path: str = "D:\\Embedding\\Embedding", deepseek_api_key: str = "LLLLLLLLL"):
         """
         初始化医疗RAG系统
 
